@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Book Library Manager</title>
+  <link rel="stylesheet" href="./main.css" />
+  <!-- <script defer src="./data.js"></script> -->
+  <script defer src="./index.js"></script>
+</head>
+<body>
+  <header id="menu">
+    <h1>Book Library Manager – Your Gateway to Organized Reading!</h1>
+  </header>
+
+  <div class="container">
+    <form id="book-form">
+      <label for="name">Book Title</label>
+      <input type="text" id="name" name="name" required />
+      <label for="description">Description</label>
+      <textarea id="description" name="description" rows="3" required></textarea>
+      <label for="Author_name">Author Name</label>
+      <input type="text" id="Author_name" name="Author_name" required />
+      <label for="image_url">Image URL</label>
+      <input type="text" id="image_url" name="image_url" required />
+      <button type="submit">Add to Library</button>
+    </form>
+    <div class="sort-section">
+        <label for="sortTitle">Sort by Title:</label>
+        <select id="sortTitle">
+          <option value="">-- Select --</option>
+          <option value="az">A–Z</option>
+          <option value="za">Z–A</option>
+        </select>
+      
+        <label for="sortRead">Sort by Read Status:</label>
+        <select id="sortRead">
+          <option value="">-- Select --</option>
+          <option value="read">Read First</option>
+          <option value="unread">Unread First</option>
+        </select>
+      </div>
+    <ul id="book-list" class="cards">
+       
+   
+    </ul>
+  </div>
+</body>
+</html>
