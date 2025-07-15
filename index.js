@@ -42,7 +42,7 @@ function renderOneBook(book) {
   card.className = 'card';
   card.innerHTML = `
     <div class="book-card">
-      <img src="${book.imageUrl}" alt="Image of ${book.name}" />
+      <img src="${book.image_url}" alt="Image of ${book.name}" />
       <div class="content">
         <h4>${book.name}</h4>
         <h4>${book.Author_name}</h4>

@@ -1,13 +1,14 @@
 body {
     margin: 0;
     font-family: Arial, sans-serif;
-    /* background-color: #fff5dc; */
     background-image: url('src/Background.jpg');
     background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed; /* Keeps it fixed while scrolling */
+    background-position: center center; /* Centers the image */
     color: #333;
   }
+  
   
   #menu {
     background-color: #2ecc71;

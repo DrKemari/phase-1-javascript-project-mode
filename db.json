@@ -4,7 +4,7 @@
       "id": "1",
       "name": "To Kill a Mockingbird",
       "Author_name": "Harper Lee",
-      "image_url": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f",
+      "image_url": "https://images.unsplash.com/photo-1614544048536-0d28caf77f41?q=80&w=387&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "description": "A novel of warmth and humor, despite dealing with serious issues of rape and racial inequality.",
       "read": false
     },
@@ -12,7 +12,7 @@
       "id": "2",
       "name": "1984",
       "Author_name": "George Orwell",
-      "image_url": "https://images.unsplash.com/photo-1544936207-57f52f0404f1",
+      "image_url": "https://plus.unsplash.com/premium_photo-1664006988924-16f386bcd40e?q=80&w=1073&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "description": "A dystopian novel set in a totalitarian society ruled by Big Brother, exploring themes of surveillance and propaganda.",
       "read": false
     },
@@ -20,7 +20,7 @@
       "id": "3",
       "name": "Pride and Prejudice",
       "Author_name": "Jane Austen",
-      "image_url": "https://images.unsplash.com/photo-1611078489935-ec6b1b74de7e",
+      "image_url": "https://images.unsplash.com/photo-1510172951991-856a654063f9?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "description": "A romantic novel that also critiques the British landed gentry of the early 19th century.",
       "read": false
     },
@@ -28,7 +28,7 @@
       "id": "4",
       "name": "The Great Gatsby",
       "Author_name": "F. Scott Fitzgerald",
-      "image_url": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c",
+      "image_url": "https://plus.unsplash.com/premium_photo-1681825268400-c561bd47d586?q=80&w=1172&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "description": "A critique of the American Dream set in the Roaring Twenties, through the tragic story of Jay Gatsby.",
       "read": false
     },
@@ -36,7 +36,7 @@
       "id": "5",
       "name": "The Catcher in the Rye",
       "Author_name": "J.D. Salinger",
-      "image_url": "https://images.unsplash.com/photo-1553729459-efe14ef6055d",
+      "image_url": "https://images.unsplash.com/photo-1476275466078-4007374efbbe?q=80&w=1129&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "description": "The story of teenage Holden Caulfield, his struggles with identity, belonging, and alienation.",
       "read": false
     },
@@ -44,15 +44,15 @@
       "id": "6",
       "name": "Moby-Dick",
       "Author_name": "Herman Melville",
-      "image_url": "https://images.unsplash.com/photo-1607746882042-944635dfe10e",
+      "image_url": "https://plus.unsplash.com/premium_photo-1683141243517-5730698ff67f?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "description": "An epic tale of obsession and revenge between man and whale aboard the Pequod.",
-      "read": false
+      "read": true
     },
     {
       "id": "7",
       "name": "The Lord of the Rings",
       "Author_name": "J.R.R. Tolkien",
-      "image_url": "https://images.unsplash.com/photo-1579127887835-efcaa7579d5b",
+      "image_url": "https://images.unsplash.com/photo-1543002588-bfa74002ed7e?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "description": "An epic fantasy saga about the battle between good and evil, centered around the One Ring.",
       "read": false
     },
@@ -60,7 +60,7 @@
       "id": "8",
       "name": "Harry Potter and the Sorcerer's Stone",
       "Author_name": "J.K. Rowling",
-      "image_url": "https://images.unsplash.com/photo-1611078489935-ec6b1b74de7e",
+      "image_url": "https://plus.unsplash.com/premium_photo-1664006988924-16f386bcd40e?q=80&w=1073&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "description": "The first book in the beloved Harry Potter series, introducing the magical world and the boy wizard.",
       "read": false
     },
@@ -68,7 +68,7 @@
       "id": "9",
       "name": "The Hobbit",
       "Author_name": "J.R.R. Tolkien",
-      "image_url": "https://images.unsplash.com/photo-1534080564583-6be75777b70a",
+      "image_url": "https://images.unsplash.com/photo-1510172951991-856a654063f9?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "description": "A fantasy adventure following Bilbo Baggins' journey to win a share of treasure guarded by a dragon.",
       "read": false
     },
@@ -76,7 +76,7 @@
       "id": "10",
       "name": "War and Peace",
       "Author_name": "Leo Tolstoy",
-      "image_url": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c",
+      "image_url": "https://plus.unsplash.com/premium_photo-1681825268400-c561bd47d586?q=80&w=1172&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "description": "A sweeping tale of war, politics, and love during the Napoleonic era in Russia.",
       "read": false
     },
@@ -84,7 +84,7 @@
       "id": "11",
       "name": "Jane Eyre",
       "Author_name": "Charlotte Brontë",
-      "image_url": "https://images.unsplash.com/photo-1534081333815-ae5019106621",
+      "image_url": "https://images.unsplash.com/photo-1476275466078-4007374efbbe?q=80&w=1129&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "description": "The story of an orphaned girl who overcomes hardship and becomes a strong, independent woman.",
       "read": true
     },
@@ -92,7 +92,7 @@
       "id": "12",
       "name": "Crime and Punishment",
       "Author_name": "Fyodor Dostoevsky",
-      "image_url": "https://images.unsplash.com/photo-1512820790803-83ca734da794",
+      "image_url": "https://plus.unsplash.com/premium_photo-1683141243517-5730698ff67f?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "description": "A psychological exploration of guilt and redemption after a man commits a murder.",
       "read": false
     },
@@ -100,7 +100,7 @@
       "id": "13",
       "name": "The Alchemist",
       "Author_name": "Paulo Coelho",
-      "image_url": "https://images.unsplash.com/photo-1481627834876-b7833e8f5570",
+      "image_url": "https://images.unsplash.com/photo-1543002588-bfa74002ed7e?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "description": "A young shepherd’s journey to realize his personal legend and fulfill his dreams.",
       "read": false
     },
@@ -108,7 +108,7 @@
       "id": "14",
       "name": "Frankenstein",
       "Author_name": "Mary Shelley",
-      "image_url": "https://images.unsplash.com/photo-1507842217343-583bb7270b66",
+      "image_url": "https://plus.unsplash.com/premium_photo-1664006988924-16f386bcd40e?q=80&w=1073&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "description": "A gothic novel exploring the dangers of playing God and the consequences of scientific hubris.",
       "read": false
     },
@@ -116,7 +116,7 @@
       "id": "15",
       "name": "The Book Thief",
       "Author_name": "Markus Zusak",
-      "image_url": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e",
+      "image_url": "https://images.unsplash.com/photo-1510172951991-856a654063f9?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "description": "A story narrated by Death about a girl living in Nazi Germany who finds solace in stealing books.",
       "read": false
     },
@@ -124,7 +124,7 @@
       "id": "16",
       "name": "The Chronicles of Narnia",
       "Author_name": "C.S. Lewis",
-      "image_url": "https://images.unsplash.com/photo-1589820296150-219177eb923b",
+      "image_url": "https://plus.unsplash.com/premium_photo-1681825268400-c561bd47d586?q=80&w=1172&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "description": "A fantasy series where children travel to the magical world of Narnia to fight evil and restore peace.",
       "read": false
     },
@@ -132,7 +132,7 @@
       "id": "17",
       "name": "Brave New World",
       "Author_name": "Aldous Huxley",
-      "image_url": "https://images.unsplash.com/photo-1553729459-efe14ef6055d",
+      "image_url": "https://images.unsplash.com/photo-1476275466078-4007374efbbe?q=80&w=1129&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "description": "A futuristic dystopian society controlled by technology, conditioning, and a lack of personal freedom.",
       "read": false
     },
@@ -140,7 +140,7 @@
       "id": "18",
       "name": "Little Women",
       "Author_name": "Louisa May Alcott",
-      "image_url": "https://images.unsplash.com/photo-1601071578298-e6cf0950e4ca",
+      "image_url": "https://plus.unsplash.com/premium_photo-1683141243517-5730698ff67f?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "description": "A coming-of-age story about four sisters navigating life, love, and ambition during the Civil War.",
       "read": false
     },
@@ -148,8 +148,408 @@
       "id": "66e8",
       "name": "Little Women",
       "Author_name": "Louisa May Alcott",
-      "image_url": "https://images.unsplash.com/photo-1521056787327-165dc2a32836?q=80&w=1025&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "image_url": "https://images.unsplash.com/photo-1543002588-bfa74002ed7e?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "description": "The lives and adventures of the four March sisters during the American Civil War era.",
+      "read": false
+    },
+    {
+      "id": "473ee05c-a3bb-4371-8267-f8a818f4b57a",
+      "name": "To Kill a Mockingbird (Vol 1)",
+      "Author_name": "Harper Lee",
+      "image_url": "https://images.unsplash.com/photo-1543002588-bfa74002ed7e?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "A novel of warmth and humor, despite dealing with serious issues of rape and racial inequality.",
+      "read": false
+    },
+    {
+      "id": "1335adb2-923c-4008-b0f7-6216dabe7be4",
+      "name": "1984 (Vol 2)",
+      "Author_name": "George Orwell",
+      "image_url": "https://plus.unsplash.com/premium_photo-1664006988924-16f386bcd40e?q=80&w=1073&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "A dystopian novel set in a totalitarian society ruled by Big Brother, exploring themes of surveillance and propaganda.",
+      "read": false
+    },
+    {
+      "id": "43ce0812-e88d-4aef-87c5-098a13fa800e",
+      "name": "Pride and Prejudice (Vol 3)",
+      "Author_name": "Jane Austen",
+      "image_url": "https://images.unsplash.com/photo-1510172951991-856a654063f9?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "A romantic novel that also critiques the British landed gentry of the early 19th century.",
+      "read": false
+    },
+    {
+      "id": "d21a6f3b-b688-43a2-aaa0-dd5e78e1efc0",
+      "name": "The Great Gatsby (Vol 4)",
+      "Author_name": "F. Scott Fitzgerald",
+      "image_url": "https://plus.unsplash.com/premium_photo-1681825268400-c561bd47d586?q=80&w=1172&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "A critique of the American Dream set in the Roaring Twenties, through the tragic story of Jay Gatsby.",
+      "read": false
+    },
+    {
+      "id": "f92ce6e1-3b34-4c41-bf78-4645e30d4b61",
+      "name": "The Catcher in the Rye (Vol 5)",
+      "Author_name": "J.D. Salinger",
+      "image_url": "https://images.unsplash.com/photo-1476275466078-4007374efbbe?q=80&w=1129&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "The story of teenage Holden Caulfield, his struggles with identity, belonging, and alienation.",
+      "read": false
+    },
+    {
+      "id": "88924d64-1e77-4222-b6f8-be13e4dee7b9",
+      "name": "Moby-Dick (Vol 6)",
+      "Author_name": "Herman Melville",
+      "image_url": "https://plus.unsplash.com/premium_photo-1683141243517-5730698ff67f?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "An epic tale of obsession and revenge between man and whale aboard the Pequod.",
+      "read": false
+    },
+    {
+      "id": "f1b51373-d247-4133-8117-968a167ddd1b",
+      "name": "The Lord of the Rings (Vol 7)",
+      "Author_name": "J.R.R. Tolkien",
+      "image_url": "https://images.unsplash.com/photo-1543002588-bfa74002ed7e?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "An epic fantasy saga about the battle between good and evil, centered around the One Ring.",
+      "read": false
+    },
+    {
+      "id": "9838495b-f031-455f-9968-5a3cb84f7c74",
+      "name": "Harry Potter and the Sorcerer's Stone (Vol 8)",
+      "Author_name": "J.K. Rowling",
+      "image_url": "https://plus.unsplash.com/premium_photo-1664006988924-16f386bcd40e?q=80&w=1073&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "The first book in the beloved Harry Potter series, introducing the magical world and the boy wizard.",
+      "read": false
+    },
+    {
+      "id": "82ee0e08-bd25-452b-a0d4-2a3b2ab8b792",
+      "name": "The Hobbit (Vol 9)",
+      "Author_name": "J.R.R. Tolkien",
+      "image_url": "https://images.unsplash.com/photo-1510172951991-856a654063f9?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "A fantasy adventure following Bilbo Baggins' journey to win a share of treasure guarded by a dragon.",
+      "read": false
+    },
+    {
+      "id": "f7ecfbd3-94d6-4ffc-ae89-10fbbfebbded",
+      "name": "War and Peace (Vol 10)",
+      "Author_name": "Leo Tolstoy",
+      "image_url": "https://plus.unsplash.com/premium_photo-1681825268400-c561bd47d586?q=80&w=1172&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "A sweeping tale of war, politics, and love during the Napoleonic era in Russia.",
+      "read": false
+    },
+    {
+      "id": "0bc7f142-9233-44b3-976f-297bea2258f9",
+      "name": "Jane Eyre (Vol 11)",
+      "Author_name": "Charlotte Brontë",
+      "image_url": "https://images.unsplash.com/photo-1476275466078-4007374efbbe?q=80&w=1129&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "The story of an orphaned girl who overcomes hardship and becomes a strong, independent woman.",
+      "read": true
+    },
+    {
+      "id": "320eeb0f-b233-4d8d-b173-2e6a62715783",
+      "name": "Crime and Punishment (Vol 12)",
+      "Author_name": "Fyodor Dostoevsky",
+      "image_url": "https://plus.unsplash.com/premium_photo-1683141243517-5730698ff67f?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "A psychological exploration of guilt and redemption after a man commits a murder.",
+      "read": false
+    },
+    {
+      "id": "c86dd759-7d87-4aa9-9609-40a073fb21c9",
+      "name": "The Alchemist (Vol 13)",
+      "Author_name": "Paulo Coelho",
+      "image_url": "https://images.unsplash.com/photo-1543002588-bfa74002ed7e?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "A young shepherd’s journey to realize his personal legend and fulfill his dreams.",
+      "read": false
+    },
+    {
+      "id": "168d0bcd-84e3-4796-8645-22b1053346ae",
+      "name": "Frankenstein (Vol 14)",
+      "Author_name": "Mary Shelley",
+      "image_url": "https://plus.unsplash.com/premium_photo-1664006988924-16f386bcd40e?q=80&w=1073&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "A gothic novel exploring the dangers of playing God and the consequences of scientific hubris.",
+      "read": false
+    },
+    {
+      "id": "5d165dcf-6796-49a2-a343-b8b827e2b63e",
+      "name": "The Book Thief (Vol 15)",
+      "Author_name": "Markus Zusak",
+      "image_url": "https://images.unsplash.com/photo-1510172951991-856a654063f9?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "A story narrated by Death about a girl living in Nazi Germany who finds solace in stealing books.",
+      "read": false
+    },
+    {
+      "id": "a850d8b6-8be7-4e08-8ada-a84fa67bfcd4",
+      "name": "The Chronicles of Narnia (Vol 16)",
+      "Author_name": "C.S. Lewis",
+      "image_url": "https://plus.unsplash.com/premium_photo-1681825268400-c561bd47d586?q=80&w=1172&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "A fantasy series where children travel to the magical world of Narnia to fight evil and restore peace.",
+      "read": false
+    },
+    {
+      "id": "572a58f1-9125-408c-bd98-bffb232ce722",
+      "name": "Brave New World (Vol 17)",
+      "Author_name": "Aldous Huxley",
+      "image_url": "https://images.unsplash.com/photo-1476275466078-4007374efbbe?q=80&w=1129&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "A futuristic dystopian society controlled by technology, conditioning, and a lack of personal freedom.",
+      "read": false
+    },
+    {
+      "id": "bb63196f-2b67-4896-ac5f-9d11fdfb3695",
+      "name": "Little Women (Vol 18)",
+      "Author_name": "Louisa May Alcott",
+      "image_url": "https://plus.unsplash.com/premium_photo-1683141243517-5730698ff67f?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "A coming-of-age story about four sisters navigating life, love, and ambition during the Civil War.",
+      "read": false
+    },
+    {
+      "id": "1c790262-0774-4544-8d52-36635ad5a755",
+      "name": "Little Women (Vol 19)",
+      "Author_name": "Louisa May Alcott",
+      "image_url": "https://images.unsplash.com/photo-1543002588-bfa74002ed7e?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "The lives and adventures of the four March sisters during the American Civil War era.",
+      "read": false
+    },
+    {
+      "id": "2f00cc69-523a-434e-96e5-8627d3d139d9",
+      "name": "To Kill a Mockingbird (Vol 1) (Vol 20)",
+      "Author_name": "Harper Lee",
+      "image_url": "https://images.unsplash.com/photo-1543002588-bfa74002ed7e?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "A novel of warmth and humor, despite dealing with serious issues of rape and racial inequality.",
+      "read": false
+    },
+    {
+      "id": "5d18fdd0-0c3b-4273-a650-7fd9168302ac",
+      "name": "1984 (Vol 2) (Vol 21)",
+      "Author_name": "George Orwell",
+      "image_url": "https://plus.unsplash.com/premium_photo-1664006988924-16f386bcd40e?q=80&w=1073&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "A dystopian novel set in a totalitarian society ruled by Big Brother, exploring themes of surveillance and propaganda.",
+      "read": false
+    },
+    {
+      "id": "7bc2189e-2655-436d-8434-19927e413ddb",
+      "name": "Pride and Prejudice (Vol 3) (Vol 22)",
+      "Author_name": "Jane Austen",
+      "image_url": "https://images.unsplash.com/photo-1510172951991-856a654063f9?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "A romantic novel that also critiques the British landed gentry of the early 19th century.",
+      "read": false
+    },
+    {
+      "id": "2af5f8c7-f132-442a-9faf-b670e2315729",
+      "name": "The Great Gatsby (Vol 4) (Vol 23)",
+      "Author_name": "F. Scott Fitzgerald",
+      "image_url": "https://plus.unsplash.com/premium_photo-1681825268400-c561bd47d586?q=80&w=1172&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "A critique of the American Dream set in the Roaring Twenties, through the tragic story of Jay Gatsby.",
+      "read": false
+    },
+    {
+      "id": "3411e009-7fcf-47de-9475-41db9e7568b4",
+      "name": "The Catcher in the Rye (Vol 5) (Vol 24)",
+      "Author_name": "J.D. Salinger",
+      "image_url": "https://images.unsplash.com/photo-1476275466078-4007374efbbe?q=80&w=1129&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "The story of teenage Holden Caulfield, his struggles with identity, belonging, and alienation.",
+      "read": false
+    },
+    {
+      "id": "73893718-9318-4e13-ab76-14e0e449eea2",
+      "name": "Moby-Dick (Vol 6) (Vol 25)",
+      "Author_name": "Herman Melville",
+      "image_url": "https://plus.unsplash.com/premium_photo-1683141243517-5730698ff67f?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "An epic tale of obsession and revenge between man and whale aboard the Pequod.",
+      "read": false
+    },
+    {
+      "id": "53eb6331-2386-43c2-866f-64b7d8210980",
+      "name": "The Lord of the Rings (Vol 7) (Vol 26)",
+      "Author_name": "J.R.R. Tolkien",
+      "image_url": "https://images.unsplash.com/photo-1543002588-bfa74002ed7e?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "An epic fantasy saga about the battle between good and evil, centered around the One Ring.",
+      "read": false
+    },
+    {
+      "id": "92e6b143-6cc9-41ec-a5fc-0b0ea8f4e0c2",
+      "name": "Harry Potter and the Sorcerer's Stone (Vol 8) (Vol 27)",
+      "Author_name": "J.K. Rowling",
+      "image_url": "https://plus.unsplash.com/premium_photo-1664006988924-16f386bcd40e?q=80&w=1073&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "The first book in the beloved Harry Potter series, introducing the magical world and the boy wizard.",
+      "read": false
+    },
+    {
+      "id": "b4c40ef1-3610-4db9-9a66-a5834364cdce",
+      "name": "The Hobbit (Vol 9) (Vol 28)",
+      "Author_name": "J.R.R. Tolkien",
+      "image_url": "https://images.unsplash.com/photo-1510172951991-856a654063f9?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "A fantasy adventure following Bilbo Baggins' journey to win a share of treasure guarded by a dragon.",
+      "read": false
+    },
+    {
+      "id": "500154cb-188f-498a-9c51-4811810854e4",
+      "name": "War and Peace (Vol 10) (Vol 29)",
+      "Author_name": "Leo Tolstoy",
+      "image_url": "https://plus.unsplash.com/premium_photo-1681825268400-c561bd47d586?q=80&w=1172&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "A sweeping tale of war, politics, and love during the Napoleonic era in Russia.",
+      "read": false
+    },
+    {
+      "id": "37452536-0698-4796-9350-cf616f87b32b",
+      "name": "Jane Eyre (Vol 11) (Vol 30)",
+      "Author_name": "Charlotte Brontë",
+      "image_url": "https://images.unsplash.com/photo-1476275466078-4007374efbbe?q=80&w=1129&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "The story of an orphaned girl who overcomes hardship and becomes a strong, independent woman.",
+      "read": true
+    },
+    {
+      "id": "dbba23a8-17a0-439f-bc52-7e81808395c2",
+      "name": "Crime and Punishment (Vol 12) (Vol 31)",
+      "Author_name": "Fyodor Dostoevsky",
+      "image_url": "https://plus.unsplash.com/premium_photo-1683141243517-5730698ff67f?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "A psychological exploration of guilt and redemption after a man commits a murder.",
+      "read": false
+    },
+    {
+      "id": "218e61d2-5134-42be-885e-c8fa7513c7da",
+      "name": "The Alchemist (Vol 13) (Vol 32)",
+      "Author_name": "Paulo Coelho",
+      "image_url": "https://images.unsplash.com/photo-1543002588-bfa74002ed7e?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "A young shepherd’s journey to realize his personal legend and fulfill his dreams.",
+      "read": false
+    },
+    {
+      "id": "b306ad12-5aac-4407-a2cb-039713c0bcef",
+      "name": "Frankenstein (Vol 14) (Vol 33)",
+      "Author_name": "Mary Shelley",
+      "image_url": "https://plus.unsplash.com/premium_photo-1664006988924-16f386bcd40e?q=80&w=1073&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "A gothic novel exploring the dangers of playing God and the consequences of scientific hubris.",
+      "read": false
+    },
+    {
+      "id": "fd30bbd4-2626-424a-954d-32ac6eef21c7",
+      "name": "The Book Thief (Vol 15) (Vol 34)",
+      "Author_name": "Markus Zusak",
+      "image_url": "https://images.unsplash.com/photo-1510172951991-856a654063f9?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "A story narrated by Death about a girl living in Nazi Germany who finds solace in stealing books.",
+      "read": false
+    },
+    {
+      "id": "922512b1-d59e-449f-877a-d317d2a16f5d",
+      "name": "The Chronicles of Narnia (Vol 16) (Vol 35)",
+      "Author_name": "C.S. Lewis",
+      "image_url": "https://plus.unsplash.com/premium_photo-1681825268400-c561bd47d586?q=80&w=1172&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "A fantasy series where children travel to the magical world of Narnia to fight evil and restore peace.",
+      "read": false
+    },
+    {
+      "id": "c035bfc4-1462-4f9c-83f5-34c64e8c5e12",
+      "name": "Brave New World (Vol 17) (Vol 36)",
+      "Author_name": "Aldous Huxley",
+      "image_url": "https://images.unsplash.com/photo-1476275466078-4007374efbbe?q=80&w=1129&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "A futuristic dystopian society controlled by technology, conditioning, and a lack of personal freedom.",
+      "read": false
+    },
+    {
+      "id": "f99e9e82-ba3c-43f2-86fd-eb5a874c5fde",
+      "name": "Little Women (Vol 18) (Vol 37)",
+      "Author_name": "Louisa May Alcott",
+      "image_url": "https://plus.unsplash.com/premium_photo-1683141243517-5730698ff67f?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "A coming-of-age story about four sisters navigating life, love, and ambition during the Civil War.",
+      "read": false
+    },
+    {
+      "id": "87b83dee-25a1-4cb7-b265-51aeab6bfa39",
+      "name": "Little Women (Vol 19) (Vol 38)",
+      "Author_name": "Louisa May Alcott",
+      "image_url": "https://images.unsplash.com/photo-1543002588-bfa74002ed7e?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "The lives and adventures of the four March sisters during the American Civil War era.",
+      "read": false
+    },
+    {
+      "id": "c1232c22-7178-470a-8c05-3febc5e869f7",
+      "name": "To Kill a Mockingbird (Vol 1) (Vol 20) (Vol 39)",
+      "Author_name": "Harper Lee",
+      "image_url": "https://images.unsplash.com/photo-1543002588-bfa74002ed7e?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "A novel of warmth and humor, despite dealing with serious issues of rape and racial inequality.",
+      "read": false
+    },
+    {
+      "id": "53fdc260-fb55-4412-a792-dd66e0fa60f0",
+      "name": "1984 (Vol 2) (Vol 21) (Vol 40)",
+      "Author_name": "George Orwell",
+      "image_url": "https://plus.unsplash.com/premium_photo-1664006988924-16f386bcd40e?q=80&w=1073&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "A dystopian novel set in a totalitarian society ruled by Big Brother, exploring themes of surveillance and propaganda.",
+      "read": false
+    },
+    {
+      "id": "f332a3cc-9f64-4b8f-8d49-264100d35efb",
+      "name": "Pride and Prejudice (Vol 3) (Vol 22) (Vol 41)",
+      "Author_name": "Jane Austen",
+      "image_url": "https://images.unsplash.com/photo-1510172951991-856a654063f9?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "A romantic novel that also critiques the British landed gentry of the early 19th century.",
+      "read": false
+    },
+    {
+      "id": "8c07e8c9-a523-4f6e-a938-dd1a16db9f6a",
+      "name": "The Great Gatsby (Vol 4) (Vol 23) (Vol 42)",
+      "Author_name": "F. Scott Fitzgerald",
+      "image_url": "https://plus.unsplash.com/premium_photo-1681825268400-c561bd47d586?q=80&w=1172&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "A critique of the American Dream set in the Roaring Twenties, through the tragic story of Jay Gatsby.",
+      "read": false
+    },
+    {
+      "id": "16b8cb79-928b-4251-8c17-6fb67b316f4e",
+      "name": "The Catcher in the Rye (Vol 5) (Vol 24) (Vol 43)",
+      "Author_name": "J.D. Salinger",
+      "image_url": "https://images.unsplash.com/photo-1476275466078-4007374efbbe?q=80&w=1129&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "The story of teenage Holden Caulfield, his struggles with identity, belonging, and alienation.",
+      "read": false
+    },
+    {
+      "id": "048c2808-8398-431a-a605-9ccb2c33f819",
+      "name": "Moby-Dick (Vol 6) (Vol 25) (Vol 44)",
+      "Author_name": "Herman Melville",
+      "image_url": "https://plus.unsplash.com/premium_photo-1683141243517-5730698ff67f?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "An epic tale of obsession and revenge between man and whale aboard the Pequod.",
+      "read": false
+    },
+    {
+      "id": "030eff7a-41ae-4f03-a7a5-ad1e903cbed6",
+      "name": "The Lord of the Rings (Vol 7) (Vol 26) (Vol 45)",
+      "Author_name": "J.R.R. Tolkien",
+      "image_url": "https://images.unsplash.com/photo-1543002588-bfa74002ed7e?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "An epic fantasy saga about the battle between good and evil, centered around the One Ring.",
+      "read": false
+    },
+    {
+      "id": "2863b995-2dc8-40f4-81a7-e4e4c5517af5",
+      "name": "Harry Potter and the Sorcerer's Stone (Vol 8) (Vol 27) (Vol 46)",
+      "Author_name": "J.K. Rowling",
+      "image_url": "https://plus.unsplash.com/premium_photo-1664006988924-16f386bcd40e?q=80&w=1073&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "The first book in the beloved Harry Potter series, introducing the magical world and the boy wizard.",
+      "read": false
+    },
+    {
+      "id": "948efc39-0924-4c24-870d-a3eae002944b",
+      "name": "The Hobbit (Vol 9) (Vol 28) (Vol 47)",
+      "Author_name": "J.R.R. Tolkien",
+      "image_url": "https://images.unsplash.com/photo-1510172951991-856a654063f9?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "A fantasy adventure following Bilbo Baggins' journey to win a share of treasure guarded by a dragon.",
+      "read": false
+    },
+    {
+      "id": "cfb4ce2d-63d7-4870-ad84-ecf0209d1b91",
+      "name": "War and Peace (Vol 10) (Vol 29) (Vol 48)",
+      "Author_name": "Leo Tolstoy",
+      "image_url": "https://plus.unsplash.com/premium_photo-1681825268400-c561bd47d586?q=80&w=1172&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "A sweeping tale of war, politics, and love during the Napoleonic era in Russia.",
+      "read": false
+    },
+    {
+      "id": "f223e49b-872f-4acd-ab50-7a08501f6fd8",
+      "name": "Jane Eyre (Vol 11) (Vol 30) (Vol 49)",
+      "Author_name": "Charlotte Brontë",
+      "image_url": "https://images.unsplash.com/photo-1476275466078-4007374efbbe?q=80&w=1129&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "The story of an orphaned girl who overcomes hardship and becomes a strong, independent woman.",
+      "read": true
+    },
+    {
+      "id": "455e6563-5b48-4e64-b035-ac840bd06958",
+      "name": "Crime and Punishment (Vol 12) (Vol 31) (Vol 50)",
+      "Author_name": "Fyodor Dostoevsky",
+      "image_url": "https://plus.unsplash.com/premium_photo-1683141243517-5730698ff67f?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "A psychological exploration of guilt and redemption after a man commits a murder.",
       "read": false
     }
   ]
