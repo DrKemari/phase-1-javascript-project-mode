@@ -4,7 +4,7 @@ document.addEventListener('DOMContentLoaded', () => {
   initialize();
 });
 
-// FORM SUBMISSION
+// Form submission
 document.querySelector('#book-form').addEventListener('submit', handleSubmit);
 
 function handleSubmit(e) {
@@ -19,7 +19,7 @@ function handleSubmit(e) {
   adoptBook(bookObj);
 }
 
-// FETCH & RENDER ALL BOOKS
+// Fetching and rendering all books
 function getAllBooks() {
   fetch('https://phase-1-javascript-project-mode-jgv1.onrender.com/books')
     .then(res => res.json())
@@ -36,7 +36,7 @@ function renderAllBooks() {
   books.forEach(book => renderOneBook(book));
 }
 
-// RENDER ONE BOOK CARD
+// Rendering one book
 function renderOneBook(book) {
   let card = document.createElement('li');
   card.className = 'card';
@@ -56,13 +56,13 @@ function renderOneBook(book) {
     </div>
   `;
 
-  // MARK AS READ/UNREAD HANDLER
+  // Mark Read or Unread
   card.querySelector('.read').addEventListener('click', () => {
     book.read = !book.read;
     updateBook(book);
   });
 
-  // DELETE HANDLER
+  // delete handler
   card.querySelector('.delete').addEventListener('click', () => {
     deleteBook(book.id);
   });
@@ -70,7 +70,7 @@ function renderOneBook(book) {
   document.querySelector('#book-list').appendChild(card);
 }
 
-// ADD NEW BOOK TO DATABASE
+// New book addition
 function adoptBook(bookObj) {
   fetch('https://phase-1-javascript-project-mode-jgv1.onrender.com/books', {
     method: 'POST',
@@ -84,7 +84,7 @@ function adoptBook(bookObj) {
     });
 }
 
-// UPDATE BOOK 
+// updating book
 function updateBook(book) {
   fetch(`https://phase-1-javascript-project-mode-jgv1.onrender.com/books/${book.id}`, {
     method: 'PATCH',
@@ -95,7 +95,7 @@ function updateBook(book) {
     .then(() => renderAllBooks());
 }
 
-// DELETE BOOK
+// deleting a book
 function deleteBook(bookId) {
   fetch(`https://phase-1-javascript-project-mode-jgv1.onrender.com/books/${bookId}`, {
     method: 'DELETE'
@@ -106,7 +106,7 @@ function deleteBook(bookId) {
     });
 }
 
-// SORTING BY TITLE
+// sorting by title
 document.getElementById('sortTitle').addEventListener('change', function () {
   const order = this.value;
   if (order === 'az') {
@@ -117,7 +117,7 @@ document.getElementById('sortTitle').addEventListener('change', function () {
   renderAllBooks();
 });
 
-// SORTING BY READ STATUS
+// Sorting by status
 document.getElementById('sortRead').addEventListener('change', function () {
   const status = this.value;
   if (status === 'read') {
@@ -128,7 +128,7 @@ document.getElementById('sortRead').addEventListener('change', function () {
   renderAllBooks();
 });
 
-// INITIALIZE
+
 function initialize() {
   getAllBooks();
 }
