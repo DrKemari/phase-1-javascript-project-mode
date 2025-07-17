@@ -1,4 +1,4 @@
-let books = []; // Global array to hold book data
+let books = [];
 
 document.addEventListener('DOMContentLoaded', () => {
   initialize();
@@ -14,7 +14,7 @@ function handleSubmit(e) {
     imageUrl: e.target.image_url.value,
     description: e.target.description.value,
     Author_name: e.target.Author_name.value,
-    read: false // Add read status
+    read: false
   };
   adoptBook(bookObj);
 }
@@ -84,7 +84,7 @@ function adoptBook(bookObj) {
     });
 }
 
-// UPDATE BOOK (for read toggle)
+// UPDATE BOOK 
 function updateBook(book) {
   fetch(`https://phase-1-javascript-project-mode-jgv1.onrender.com/books/${book.id}`, {
     method: 'PATCH',

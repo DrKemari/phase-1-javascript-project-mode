@@ -4,8 +4,8 @@ body {
     background-image: url('src/Background.jpg');
     background-size: cover;
     background-repeat: no-repeat;
-    background-attachment: fixed; /* Keeps it fixed while scrolling */
-    background-position: center center; /* Centers the image */
+    background-attachment: fixed; 
+    background-position: center center; 
     color: #333;
   }
   
