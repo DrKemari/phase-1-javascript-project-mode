@@ -1,5 +1,5 @@
 {
-  "name": "Book Library Manager",
+  "name": "Book-Library-Manager",
   "version": "1.0.0",
   "description": "The Book Library Manager allows users to manage a personal collection of books. Users can view a list of books, add new entries, remove existing ones, and track which books they've read or not read.",
 
