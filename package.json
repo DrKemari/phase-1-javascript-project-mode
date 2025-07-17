@@ -1,0 +1,12 @@
+{
+  "name": "phase-1-javascript-project-mode",
+  "version": "1.0.0",
+  "description": "This is a simple project to manage a collection of books using DOM manipulation and a local JSON database (`db.json`). Users can add books, remove them, mark them as read/unread, and sort the list.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
