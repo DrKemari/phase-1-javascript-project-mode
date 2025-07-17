@@ -1,12 +1,9 @@
 {
-  "name": "phase-1-javascript-project-mode",
+  "name": "Book Library Manager",
   "version": "1.0.0",
-  "description": "This is a simple project to manage a collection of books using DOM manipulation and a local JSON database (`db.json`). Users can add books, remove them, mark them as read/unread, and sort the list.",
-  "main": "index.js",
+  "description": "The Book Library Manager allows users to manage a personal collection of books. Users can view a list of books, add new entries, remove existing ones, and track which books they've read or not read.",
+
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+    "start": "node server.js"
+  }
 }
