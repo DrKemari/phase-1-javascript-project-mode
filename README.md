@@ -41,14 +41,19 @@ Sort the library based on:
 * Node.js installed
 * JSON Server installed globally
 
-### Run the JSON Server
+### Running the JSON Server
+
+The `db.json` is deployed on [Render](https://render.com/), and the live API is available at:  
+**[https://phase-1-javascript-project-mode-jgv1.onrender.com/books](https://phase-1-javascript-project-mode-jgv1.onrender.com/books)**
+
+Alternatively, you can run the JSON Server locally by switching the API URL to `localhost` i.e. 
+
+**[http://localhost:3000/books/](http://localhost:3000/books/)**
+ and running:
 
 ```bash
 npm install -g json-server
 json-server --watch db.json
-```
-
-The server will start on [http://localhost:3000](http://localhost:3000)
 
 ### Open the App
 
