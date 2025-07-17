@@ -21,7 +21,7 @@ function handleSubmit(e) {
 
 // FETCH & RENDER ALL BOOKS
 function getAllBooks() {
-  fetch('http://localhost:3000/books')
+  fetch('https://phase-1-javascript-project-mode-jgv1.onrender.com/books')
     .then(res => res.json())
     .then(bookData => {
       books = bookData;
@@ -72,7 +72,7 @@ function renderOneBook(book) {
 
 // ADD NEW BOOK TO DATABASE
 function adoptBook(bookObj) {
-  fetch('http://localhost:3000/books', {
+  fetch('https://phase-1-javascript-project-mode-jgv1.onrender.com/books', {
     method: 'POST',
     headers: { 'Content-Type': 'application/json' },
     body: JSON.stringify(bookObj)
@@ -86,7 +86,7 @@ function adoptBook(bookObj) {
 
 // UPDATE BOOK (for read toggle)
 function updateBook(book) {
-  fetch(`http://localhost:3000/books/${book.id}`, {
+  fetch(`https://phase-1-javascript-project-mode-jgv1.onrender.com/books/${book.id}`, {
     method: 'PATCH',
     headers: { 'Content-Type': 'application/json' },
     body: JSON.stringify({ read: book.read })
@@ -97,7 +97,7 @@ function updateBook(book) {
 
 // DELETE BOOK
 function deleteBook(bookId) {
-  fetch(`http://localhost:3000/books/${bookId}`, {
+  fetch(`https://phase-1-javascript-project-mode-jgv1.onrender.com/books/${bookId}`, {
     method: 'DELETE'
   })
     .then(() => {
